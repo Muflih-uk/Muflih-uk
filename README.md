@@ -2,7 +2,7 @@
 <br>👋 Hello, I'm Mohammed Muflih!
 <br>🚀 B.Tech Computer Engineering Student at GEC Palakkad
 <br>🤖 Passionate about AI, Robotics
-<br>💻 Learning Linux, ROS2, Gazebo,  Python, and C++
+<br>💻 Learning ROS2, Gazebo,  Python, and C++
 <br>🔧 Experimenting with Arduino, NodeMCU
 <br>🌱 Exploring 3D Modeling, Sensors & Actuators, and Circuit Design
 
